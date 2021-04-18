@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM golang:1.10-stretch
+FROM golang:1.16.2-stretch
 
 ENV USE_DOCKER=false
 
